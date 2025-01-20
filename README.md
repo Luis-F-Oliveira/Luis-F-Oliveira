@@ -1,7 +1,7 @@
 # 💫About Me :
-- 🔭 I’m currently working on [bot-iomat-electron](https://github.com/Luis-F-Oliveira/bot-iomat-electron.git)
-- 🌱 I’m currently learning **Nextjs, AspNet**
-- 💬 Ask me about **React**
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning **Angular, AspNet**
+- 💬 Ask me about **AspNet**
 - 📫 How to reach me **luis.f.oliveira505141@outlook.com**
 
 
